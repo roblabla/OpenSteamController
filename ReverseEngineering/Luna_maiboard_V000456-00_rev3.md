@@ -221,7 +221,9 @@ This is the powerful, highly flexible multiprotocol SoC ideally suited for
 
 ## Resources 
 
-* TODO: datasheet, etc.
+- [Product Specification](https://web.archive.org/web/20190609222258/https://infocenter.nordicsemi.com/pdf/nRF51822_PS_v3.1.pdf)
+- [Reference Manual](https://web.archive.org/web/20170625062319/https://lancaster-university.github.io/microbit-docs/resources/datasheets/nRF51822.pdf)
+- [SDK](https://www.nordicsemi.com/-/media/Software-and-other-downloads/SDKs/nRF5/Binaries/nRF5SDK160098a08e2.zip)
 
 ## Pinout
 
